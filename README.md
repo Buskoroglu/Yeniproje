@@ -1,4 +1,4 @@
-# yeniproje
+# yemek uygulaması
 
 A new Flutter project.
 
